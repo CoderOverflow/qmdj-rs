@@ -1,4 +1,5 @@
 # 奇门遁甲(qmdj-rs)
+
 ## 简介
 qmdj-rs这个项目是关于一个中国古代信息模型“奇门遁甲”的小程序。使用Rust编写。
 
@@ -15,3 +16,6 @@ qmdj-rs这个项目是关于一个中国古代信息模型“奇门遁甲”的�
 Rust is primarily distributed the MIT license
 See [LICENSE-MIT](LICENSE-MIT), and
 [COPYRIGHT](COPYRIGHT) for details.
+
+## 小牌子
+[![license]](https://img.shields.io/github/license/CoderOverflow/qmdj-rs)
