@@ -18,4 +18,4 @@ See [LICENSE-MIT](LICENSE-MIT), and
 [COPYRIGHT](COPYRIGHT) for details.
 
 ## 小牌子
-[![license]](https://img.shields.io/github/license/CoderOverflow/qmdj-rs)
+[![license](https://img.shields.io/github/license/CoderOverflow/qmdj-rs)](https://github.com/CoderOverflow/qmdj-rs/blob/master/LICENSE)
