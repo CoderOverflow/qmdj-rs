@@ -13,7 +13,7 @@ qmdj-rs这个项目是关于一个中国古代信息模型“奇门遁甲”的�
 
 
 ## License
-Rust is primarily distributed the MIT license
+Qmdj-rs is primarily distributed the MIT license. 
 See [LICENSE-MIT](LICENSE-MIT) for details.
 
 ## 小牌子
